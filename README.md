@@ -6,3 +6,6 @@
    - Effort is a path to mastery
    - Learn from feedback
    - Inspired by success of others
+```sh
+git add $file1 $file2 $file3
+```
